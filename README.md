@@ -7,7 +7,7 @@ This Netflix Tableau dashboard displays TV shows and movies categorized by genre
 ## Features
 
 - Interactive Exploration
-Seamlessly navigation to the world of Netflix through a thoughtfully designed Tableau dashboard, offering an interactive and engaging user experience.
+Seamless navigation to the world of Netflix through a thoughtfully designed Tableau dashboard, offering an interactive and engaging user experience.
 
 
 - Comprehensive Data Analysis:
